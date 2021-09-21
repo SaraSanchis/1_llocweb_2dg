@@ -2,5 +2,5 @@
 
 Primera práctica
 ## Crear documento 
-* crear document html
+* Crear document html
 * Etiquetas h1 h2 h3 p
